@@ -27,3 +27,17 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+---------------------------------------------------------------------
+Packages which have used are
+
+we Have used the heroicons
+by using command 
+{ npm install @heroicons/react }
+the import {module} from '@heroicons/react/outline'
+to know more about the heroicons
+https://github.com/tailwindlabs/heroicons
+
+we have used the Tailwindcss/forms
+to know more about the tailwind forms 
+https://github.com/tailwindlabs/tailwindcss-forms
+read this it intersting
